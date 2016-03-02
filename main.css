@@ -3,7 +3,12 @@ body {
 
 }
 
-
+div {
+  height: 150px;
+  width: 100%;
+  background-color: crimson;
+  position: relative;
+}
 
 main {
   width: 100%;
