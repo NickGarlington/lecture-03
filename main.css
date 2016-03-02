@@ -1,0 +1,15 @@
+main + a {
+  text-transform: uppercase;
+}
+
+main a {
+  color: goldenrod;
+  font-size: 2rem;
+}
+
+.example-grandchild {
+  colr: red;
+}
+a.example-grandchild#reddit {
+  font-size: 3rem;
+}
